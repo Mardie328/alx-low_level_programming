@@ -1,6 +1,6 @@
 0x00. C - Hello, World
 
-This project contains scripts that carries out various specific functions.
+This project contains scripts that carry out various specific functions.
 
 Task 0 - a script that runs a C file through the preprocessor and save the result into another file.
 
