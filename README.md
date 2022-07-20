@@ -1,3 +1,4 @@
-### alx-low_level_programming
+## alx-low_level_programming
 
-This repo contains all my projects on C programming language with ALX.
+This repo contains all my projects on C programming language with ALX and each folder contains a readme that explains the content in each file.
+__________________________________________________________________________________________________________________________________________________________________
