@@ -24,7 +24,7 @@
 
 **[10-add.c](https://github.com/Mardie328/alx-low_level_programming/blob/main/0x02-functions_nested_loops/10-add.c)** - Contains a function that adds two integers and returns the result.
 
-**[11-print_to_98.c](https://github.com/Mardie328/alx-low_level_programming/blob/main/0x02-functions_nested_loops/)** - Contains a function that prints all natural numbers from n to 98, followed by a new line.
+**[11-print_to_98.c](https://github.com/Mardie328/alx-low_level_programming/blob/main/0x02-functions_nested_loops/11-print_to_98.c)** - Contains a function that prints all natural numbers from n to 98, followed by a new line.
 
 **[100-times_table.c](https://github.com/Mardie328/alx-low_level_programming/blob/main/0x02-functions_nested_loops/100-times_table.c)** - Contains a function that prints the n times table, starting with 0.
 
