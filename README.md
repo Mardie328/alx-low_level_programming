@@ -24,4 +24,3 @@ This repo contains all my projects on C programming language with ALX and each d
 * [0x12-singly_linked_lists](https://github.com/Mardie328/alx-low_level_programming/tree/main/0x12-singly_linked_lists)
 * [0x13-more_singly_linked_lists](https://github.com/Mardie328/alx-low_level_programming/tree/main/0x13-more_singly_linked_lists)
 * [0x15-file_io](https://github.com/Mardie328/alx-low_level_programming/tree/main/0x15-file_io)
-*
